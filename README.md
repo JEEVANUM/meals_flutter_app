@@ -28,30 +28,18 @@ This is a web based application developed for Travel Agency.
 
 
 ## YouTube video link :
-https://youtu.be/YAUJacUPJ58
+
+https://github.com/JEEVANUM/meals_flutter_app/assets/88769264/bd1ac295-1699-4c82-8bb0-b6fa5fd53971
+
+
+
 
 ## Screenshots 📸
 
 ### Home page -  
 <img src="home.png">
 
-### services page -
-<img src="services.png">
 
-### Contact page -
-<img src="contact.png">
-
-### health bot Page -
-<img src="health.png">
-
-### About Us Page -
-<img src="about.png">
-
-### Tour Packages Page -
-<img src="tour packages.png">
-
-### Azure Services Portal Page -
-<img src="azure services ss.png">
 
 ## Tech Stack 💻
 
